@@ -1,0 +1,25 @@
+body {
+	font-family: Verdana, sans-serif;
+	color: #2F3131;
+}
+
+img.topLogo{
+	float: left;
+	width: 70px;
+	height: 73px;
+	box-sizing: border-box;
+    overflow: auto;
+	background-color: #4FE88C;
+}
+
+span.topLogo{
+	overflow: auto;
+	background-color: #4FE88C;
+}
+			
+span>span.headText{
+	font-size:60px;
+	background-color: #4FE88C;
+	text-align: center;
+	font-weight: bold;
+}
